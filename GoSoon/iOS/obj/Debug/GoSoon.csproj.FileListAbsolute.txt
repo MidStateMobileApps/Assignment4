@@ -1,0 +1,4 @@
+/Users/user132548/Projects/MidStateMobileApps/Assignment4.git/GoSoon/iOS/obj/Debug/GoSoon.csprojResolveAssemblyReference.cache
+/Users/user132548/Projects/MidStateMobileApps/Assignment4.git/GoSoon/iOS/obj/Debug/GoSoon.csproj.CoreCompileInputs.cache
+/Users/user132548/Projects/MidStateMobileApps/Assignment4.git/GoSoon/iOS/obj/Debug/GoSoon.App.xaml.g.cs
+/Users/user132548/Projects/MidStateMobileApps/Assignment4.git/GoSoon/iOS/obj/Debug/GoSoon.GoSoonPage.xaml.g.cs

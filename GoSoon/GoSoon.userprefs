@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{C423FD59-0C30-4391-A634-EE322B6C74E1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoSoon/GoSoonPage.xaml.cs">
+    <Files>
+      <File FileName="GoSoon/GoSoonPage.xaml" Line="5" Column="1" />
+      <File FileName="GoSoon/GoSoonPage.xaml.cs" Line="10" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>Droid/GoSoon.Droid.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.GoSoon.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2963D9ED-1294-4609-8F1F-5F255D8D5F6F">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.GoSoon.iOS>
+</Properties>
